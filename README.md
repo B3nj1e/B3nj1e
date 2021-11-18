@@ -8,6 +8,7 @@ I have a background in Health, and have been working as a Podiatrist for the las
  -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=B3nj1e&show_icons=true&locale=en&layout=compact" alt="B3nj1e" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=B3nj1e&show_icons=true&locale=en" alt="B3nj1e" /></p>
 
 <!--
 **B3nj1e/B3nj1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
