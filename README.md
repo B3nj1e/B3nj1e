@@ -3,6 +3,11 @@
 Thanks for clicking! My name is Ben and I am a full stack web developer with a special interest in UI/UX. 
 
 I have a background in Health, and have been working as a Podiatrist for the last 4 years. I am currently undertaking the [University of Adelaide full stack web development bootcamp](https://bootcamps.adelaide.edu.au/). Feel free to view my current [Portfolio](https://b3nj1e.github.io/02-Homework-Portfolio-Clewer/?fbclid=IwAR1XvfMArOfluaroruyR284XPa_D58UiLPKy8Mq56nW1gGms785gNMdo9Ww) with the latest projects I've worked on. 
+<!-- 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+ -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=B3nj1e&show_icons=true&locale=en&layout=compact" alt="B3nj1e" /></p>
+
 
 <!--
 **B3nj1e/B3nj1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
