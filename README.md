@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Thanks for clicking! My name is Ben and I am a full stack web developer with a special interest in UI/UX. 
+Thanks for clicking! My name is Ben and I am a junior full stack web developer. 
 
-I have a background in Health, and have been working as a Podiatrist for the last 4 years. I am currently undertaking the [University of Adelaide full stack web development bootcamp](https://bootcamps.adelaide.edu.au/). Feel free to view my current [Portfolio](https://b3nj1e.github.io/02-Homework-Portfolio-Clewer/?fbclid=IwAR1XvfMArOfluaroruyR284XPa_D58UiLPKy8Mq56nW1gGms785gNMdo9Ww) with the latest projects I've worked on. 
+I have a background in Health, and have been working as a Podiatrist for the last 4 years. I am currently undertaking the [University of Adelaide full stack web development program](https://bootcamps.adelaide.edu.au/). Feel free to view my current [Portfolio](https://b3nj1e.github.io/02-Homework-Portfolio-Clewer/?fbclid=IwAR1XvfMArOfluaroruyR284XPa_D58UiLPKy8Mq56nW1gGms785gNMdo9Ww) with the latest projects I've worked on. 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=B3nj1e&show_icons=true&locale=en&layout=compact" alt="B3nj1e" /></p>
 
